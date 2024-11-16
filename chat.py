@@ -89,7 +89,7 @@ st.write("Je suis là pour vous répondre. 😊")
 
     # Obtenir la question de l'utilisateur
 
-question = st.text_input("Vous:")
+question = st.text_input("Vous: ")
 
     # Créer un bouton pour soumettre la question
 
