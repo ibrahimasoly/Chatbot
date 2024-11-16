@@ -89,11 +89,11 @@ st.write("Je suis là pour vous répondre. 😊")
 
     # Obtenir la question de l'utilisateur
 
-question = st.text_input("You:")
+question = st.text_input("Vous:")
 
     # Créer un bouton pour soumettre la question
 
-if st.button("Submit"):
+if st.button("Envoyer"):
 
         # Appeler la fonction chatbot avec la question et afficher la réponse
 
